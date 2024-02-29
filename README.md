@@ -61,3 +61,15 @@ The Corporation Favorita Store Sales Forecasting Project aims to predict store s
 The ultimate objective is to build a model that accurately predicts the unit sales for thousands of items.
 
 Feel free to contribute and explore the project repository for more details!
+
+## Dashboard and article link
+https://app.powerbi.com/groups/81176279-bbda-409b-ba26-61a2aad0909e/reports/a9e781be-524b-43fe-8df0-6e7d5b06ce15/ReportSection?experience=power-bi
+
+https://medium.com/@nyamburam12/unveiling-the-secrets-of-time-series-regression-a-journey-into-store-sales-forecasting-87583f52cb69
+
+
+## Project Members
+Samuel Dribsa>> https://github.com/Samidirbsa Keith Omollo>> https://github.com/K-OMOLLO Emill Maglo>> https://github.com/SiperMaglo Monica Nyambura>> https://github.com/M-travis123 Angelia Nakkungu>> https://github.com/Nakkungu Pascal Wambua>>
+
+
+
